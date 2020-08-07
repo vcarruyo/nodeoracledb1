@@ -1,0 +1,46 @@
+11:06:52.921 INFO  Initializing database module 
+11:06:54.762 INFO  Connection was successfull 
+11:06:54.762 INFO  Database connection was successfull 
+11:06:54.763 INFO  Starting application 
+11:06:54.763 INFO  Initializing web server module 
+12:14:00.436 INFO  Received SIGINT 
+12:14:00.441 INFO  Shutting down 
+12:14:00.443 INFO  Closing web server module 
+12:14:00.449 INFO  Closing database module 
+12:19:37.908 INFO  Initializing database module 
+12:19:38.647 INFO  Connection was successfull 
+12:19:38.648 INFO  Database connection was successfull 
+12:19:38.649 INFO  Starting application 
+12:19:38.650 INFO  Initializing web server module 
+12:20:07.563 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+12:57:49.009 INFO  Initializing database module 
+12:57:49.792 INFO  Connection was successfull 
+12:57:49.795 INFO  Database connection was successfull 
+12:57:49.796 INFO  Starting application 
+12:57:49.797 INFO  Initializing web server module 
+13:08:57.688 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+13:14:25.695 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+13:23:47.243 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+13:24:55.161 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+13:25:27.147 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+13:43:42.212 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+13:45:27.354 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+13:59:13.368 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:06:01.391 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:06:04.196 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:10:24.925 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:12:34.547 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:13:16.395 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:22:21.311 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:24:42.482 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:25:52.380 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:30:12.204 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:41:07.712 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:42:22.512 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:45:37.618 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:46:07.562 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:29:30.094 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:29:54.451 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:32:06.117 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:32:29.622 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+

@@ -1,0 +1,56 @@
+10:14:00.538 INFO  Initializing database module 
+10:14:01.304 INFO  Connection was successfull 
+10:14:01.305 INFO  Database connection was successfull 
+10:14:01.306 INFO  Starting application 
+10:14:01.306 INFO  Initializing web server module 
+10:29:21.742 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+10:48:32.656 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+10:50:41.984 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:04:03.374 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:05:55.421 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:07:36.587 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:08:16.921 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:08:50.124 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:11:42.889 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:13:56.228 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:18:22.206 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:21:25.232 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:21:32.163 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+11:21:59.683 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+11:21:59.763 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+11:24:06.607 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:24:12.244 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+11:24:35.994 INFO  Consulta exitosa {"GAMEDAY_ID":99999} 
+11:29:05.594 INFO  Consulta exitosa {"HU_USERNAME":"GESTO"} 
+11:29:21.817 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:29:28.270 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:29:39.256 INFO  Consulta exitosa {"HU_USERNAME":"GESTO"} 
+11:31:01.407 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:31:29.235 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+11:31:29.276 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+11:32:10.733 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+11:33:52.954 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:33:57.510 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+11:34:29.987 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:34:34.672 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+11:36:02.282 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:36:10.464 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+11:36:10.506 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+11:37:24.666 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:37:30.788 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+11:37:30.827 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+11:38:27.408 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:38:33.789 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+11:38:33.830 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+11:43:22.065 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:43:29.069 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+11:43:29.112 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+11:46:05.487 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:46:10.532 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+11:46:13.504 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+11:48:16.158 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:48:22.222 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+11:48:22.268 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+11:48:24.679 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+11:48:24.739 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+

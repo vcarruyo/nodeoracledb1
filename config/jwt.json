@@ -1,0 +1,5 @@
+{
+    "secret": "multigame secret cba-alsina",
+    "audience": "this is the audience",
+    "issuer": "this is de issuer"
+}

@@ -1,0 +1,12 @@
+11:08:33.527 INFO  Initializing database module 
+11:08:34.284 INFO  Connection was successfull 
+11:08:34.285 INFO  Database connection was successfull 
+11:08:34.286 INFO  Starting application 
+11:08:34.287 INFO  Initializing web server module 
+11:09:06.324 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:41:56.574 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:42:05.792 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:42:14.829 INFO  Consulta exitosa {"HU_USERNAME":"GESTO"} 
+16:42:18.439 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:43:26.399 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+17:38:51.000 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 

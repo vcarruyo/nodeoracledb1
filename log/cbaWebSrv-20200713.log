@@ -1,0 +1,49 @@
+09:28:50.104 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+09:29:06.261 INFO  Consulta exitosa {"EXT_GAMEDAY_ID":43564} 
+09:31:31.653 INFO  Initializing database module 
+09:31:32.633 INFO  Connection was successfull 
+09:31:32.634 INFO  Database connection was successfull 
+09:31:32.634 INFO  Starting application 
+09:31:32.635 INFO  Initializing web server module 
+09:32:25.276 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+09:32:32.839 INFO  Consulta exitosa {"EXT_GAMEDAY_ID":43564} 
+10:46:23.507 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+10:47:24.331 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:23:41.876 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:25:06.530 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:35:04.839 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:36:33.675 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:36:44.229 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:39:40.764 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:40:47.345 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:11:03.806 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:12:49.572 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:18:10.575 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:20:04.889 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:23:09.242 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:26:07.360 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:47:38.676 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:48:42.783 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+17:07:09.775 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+17:13:40.680 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+17:13:40.861 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+17:16:22.704 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+17:23:31.751 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+17:28:33.169 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+17:33:33.610 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+17:44:35.675 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:12:10.760 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:12:10.948 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:13:40.217 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:14:56.291 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:19:01.486 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:19:01.528 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:26:24.518 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:30:26.372 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:31:00.803 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:34:13.600 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:46:46.829 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:48:18.049 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:48:31.268 INFO  Consulta exitosa {"EXT_GAMEDAY_ID":43564} 
+18:50:58.811 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+

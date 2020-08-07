@@ -1,0 +1,43 @@
+00:53:48.789 INFO  Initializing database module 
+00:53:50.877 INFO  Connection was successfull 
+00:53:50.878 INFO  Database connection was successfull 
+00:53:50.879 INFO  Starting application 
+00:53:50.880 INFO  Initializing web server module 
+00:56:22.998 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+00:56:32.691 INFO  Consulta exitosa {"EXT_GAMEDAY_ID":43564} 
+01:25:08.177 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+01:25:14.631 INFO  Consulta exitosa {"EXT_GAMEDAY_ID":43564} 
+01:47:22.475 INFO  Received SIGINT 
+01:47:22.478 INFO  Shutting down 
+01:47:22.491 INFO  Closing web server module 
+01:47:22.497 INFO  Closing database module 
+01:58:12.568 INFO  Initializing database module 
+01:58:13.387 INFO  Connection was successfull 
+01:58:13.388 INFO  Database connection was successfull 
+01:58:13.388 INFO  Starting application 
+01:58:13.388 INFO  Initializing web server module 
+01:58:38.362 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+01:58:44.757 INFO  Consulta exitosa {"EXT_GAMEDAY_ID":43564} 
+01:59:13.924 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+01:59:22.213 INFO  Consulta exitosa {"EXT_GAMEDAY_ID":43564} 
+02:01:21.837 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+02:01:30.510 INFO  Consulta exitosa {"EXT_GAMEDAY_ID":43564} 
+02:03:40.163 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+02:03:47.566 INFO  Consulta exitosa {"EXT_GAMEDAY_ID":43564} 
+02:07:52.919 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+02:07:59.112 INFO  Consulta exitosa {"EXT_GAMEDAY_ID":43564} 
+02:08:49.167 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+02:09:07.430 INFO  Consulta exitosa {"EXT_GAMEDAY_ID_FROM":"43622","EXT_GAMEDAY_ID_TO":"43707"} 
+02:09:07.574 INFO  Consulta exitosa {"EXT_GAMEDAY_ID_FROM":"43622","EXT_GAMEDAY_ID_TO":"43707"} 
+02:10:03.536 INFO  Consulta exitosa {"EXT_GAMEDAY_ID":43564} 
+02:11:08.869 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+02:11:20.564 INFO  Consulta exitosa {"EXT_GAMEDAY_ID_FROM":"43622","EXT_GAMEDAY_ID_TO":"43707"} 
+02:11:20.612 INFO  Consulta exitosa {"EXT_GAMEDAY_ID_FROM":"43622","EXT_GAMEDAY_ID_TO":"43707"} 
+02:12:45.041 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+02:12:55.037 INFO  Consulta exitosa {"EXT_GAMEDAY_ID_FROM":"43622","EXT_GAMEDAY_ID_TO":"43707"} 
+02:12:55.084 INFO  Consulta exitosa {"EXT_GAMEDAY_ID_FROM":"43622","EXT_GAMEDAY_ID_TO":"43707"} 
+02:13:13.043 INFO  Consulta exitosa {"EXT_GAMEDAY_ID":43564} 
+02:13:23.818 INFO  Consulta exitosa {"EXT_GAMEDAY_ID":1} 
+02:13:35.143 INFO  Consulta exitosa {"EXT_GAMEDAY_ID_FROM":"1","EXT_GAMEDAY_ID_TO":"2"} 
+02:13:35.199 INFO  Consulta exitosa {"EXT_GAMEDAY_ID_FROM":"1","EXT_GAMEDAY_ID_TO":"2"} 
+

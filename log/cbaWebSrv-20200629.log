@@ -1,0 +1,485 @@
+08:00:20.279 INFO  Initializing database module 
+08:00:22.494 INFO  Connection was successfull 
+08:00:22.495 INFO  Database connection was successfull 
+08:00:22.496 INFO  Starting application 
+08:00:22.496 INFO  Initializing web server module 
+08:00:31.045 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:00:48.358 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:00:55.303 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+08:01:14.165 INFO  Consulta exitosa {"HU_USERNAME":"GESTO"} 
+08:01:20.047 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:01:24.132 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:01:44.610 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:01:51.357 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+08:01:51.588 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+08:01:58.053 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:02:06.214 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+08:02:06.255 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+08:06:13.288 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:06:20.551 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+08:09:44.598 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:09:49.852 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+08:10:41.230 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:10:47.858 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+08:12:04.097 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:12:08.447 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+08:12:33.837 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:12:40.063 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+08:14:34.284 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:16:40.941 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:18:07.719 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:18:39.326 INFO  Consulta exitosa {"HU_USERNAME":"GESTO"} 
+08:18:45.051 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:18:51.908 INFO  Consulta exitosa {"HU_USERNAME":"GESTO"} 
+08:19:00.661 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:19:03.316 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:21:16.570 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:21:21.263 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+08:21:43.259 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:23:08.536 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:23:15.849 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+08:34:48.690 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:35:03.055 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:36:04.975 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:36:34.081 INFO  Consulta exitosa {"HU_USERNAME":"GESTO"} 
+08:36:40.418 INFO  Consulta exitosa {"HU_USERNAME":"GESTO"} 
+08:41:01.388 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:41:06.091 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+08:41:22.986 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:41:27.917 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+08:42:04.283 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:42:09.247 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+08:44:38.083 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+08:44:42.629 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+08:44:45.887 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+08:45:02.567 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+09:23:01.773 INFO  Initializing database module 
+09:23:02.465 INFO  Connection was successfull 
+09:23:02.466 INFO  Database connection was successfull 
+09:23:02.467 INFO  Starting application 
+09:23:02.468 INFO  Initializing web server module 
+09:23:47.940 INFO  Initializing database module 
+09:23:48.655 INFO  Connection was successfull 
+09:23:48.656 INFO  Database connection was successfull 
+09:23:48.657 INFO  Starting application 
+09:23:48.658 INFO  Initializing web server module 
+09:40:00.040 INFO  Initializing database module 
+09:40:00.736 INFO  Connection was successfull 
+09:40:00.736 INFO  Database connection was successfull 
+09:40:00.737 INFO  Starting application 
+09:40:00.738 INFO  Initializing web server module 
+09:40:03.968 INFO  Received SIGINT 
+09:40:57.839 INFO  Initializing database module 
+09:40:58.491 INFO  Connection was successfull 
+09:40:58.492 INFO  Database connection was successfull 
+09:40:58.493 INFO  Starting application 
+09:40:58.494 INFO  Initializing web server module 
+09:41:11.932 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+09:41:28.431 INFO  Received SIGINT 
+09:41:28.433 INFO  Shutting down 
+09:41:28.435 INFO  Closing web server module 
+09:41:28.438 INFO  Closing database module 
+09:43:57.999 INFO  Initializing database module 
+09:43:58.695 INFO  Connection was successfull 
+09:43:58.696 INFO  Database connection was successfull 
+09:43:58.697 INFO  Starting application 
+09:43:58.697 INFO  Initializing web server module 
+09:46:10.251 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+09:48:49.972 INFO  Received SIGINT 
+09:48:49.977 INFO  Shutting down 
+09:48:49.978 INFO  Closing web server module 
+09:48:49.983 INFO  Closing database module 
+09:50:24.103 INFO  Initializing database module 
+09:50:24.869 INFO  Connection was successfull 
+09:50:24.870 INFO  Database connection was successfull 
+09:50:24.870 INFO  Starting application 
+09:50:24.871 INFO  Initializing web server module 
+09:50:35.338 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+09:50:40.967 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+10:18:44.227 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+10:18:49.608 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+10:19:10.712 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+10:19:16.819 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+10:19:16.833 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+11:19:13.286 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:19:21.543 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+11:20:08.428 INFO  Received SIGINT 
+11:20:08.431 INFO  Shutting down 
+11:20:08.433 INFO  Closing web server module 
+11:20:08.435 INFO  Closing database module 
+11:20:41.478 INFO  Initializing database module 
+11:20:42.221 INFO  Connection was successfull 
+11:20:42.221 INFO  Database connection was successfull 
+11:20:42.222 INFO  Starting application 
+11:20:42.223 INFO  Initializing web server module 
+11:20:47.574 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:20:52.523 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+11:20:56.103 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+11:21:37.262 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+11:21:37.307 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+11:23:26.957 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:23:30.879 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+11:23:32.695 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+11:23:41.558 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+11:57:33.496 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+11:57:40.528 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+12:15:02.499 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+12:15:28.162 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51929","GAMEDAY_ID_TO":"51991"} 
+12:15:28.165 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51929","GAMEDAY_ID_TO":"51991"} 
+12:19:43.691 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+12:19:55.279 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51929","GAMEDAY_ID_TO":"51991"} 
+12:19:55.321 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51929","GAMEDAY_ID_TO":"51991"} 
+12:21:56.081 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+12:22:12.913 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51929","GAMEDAY_ID_TO":"51991"} 
+12:22:12.959 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51929","GAMEDAY_ID_TO":"51991"} 
+12:22:32.424 INFO  Received SIGINT 
+12:22:32.426 INFO  Shutting down 
+12:22:32.428 INFO  Closing web server module 
+12:22:32.430 INFO  Closing database module 
+12:22:42.364 INFO  Initializing database module 
+12:22:42.965 INFO  Connection was successfull 
+12:22:42.966 INFO  Database connection was successfull 
+12:22:42.966 INFO  Starting application 
+12:22:42.967 INFO  Initializing web server module 
+12:22:46.028 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+12:22:49.720 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+12:22:49.724 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+12:23:05.455 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51929","GAMEDAY_ID_TO":"51991"} 
+12:23:05.512 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51929","GAMEDAY_ID_TO":"51991"} 
+12:24:07.594 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51929","GAMEDAY_ID_TO":"51991"} 
+12:24:07.646 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51929","GAMEDAY_ID_TO":"51991"} 
+12:24:44.963 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51929","GAMEDAY_ID_TO":"51991"} 
+12:24:45.000 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51929","GAMEDAY_ID_TO":"51991"} 
+12:52:18.212 INFO  Initializing database module 
+12:52:18.891 INFO  Connection was successfull 
+12:52:18.892 INFO  Database connection was successfull 
+12:52:18.893 INFO  Starting application 
+12:52:18.895 INFO  Initializing web server module 
+12:55:08.534 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+12:55:14.554 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+12:55:14.606 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+12:55:16.265 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+12:55:16.313 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+13:02:36.296 INFO  Initializing database module 
+13:02:37.063 INFO  Connection was successfull 
+13:02:37.064 INFO  Database connection was successfull 
+13:02:37.064 INFO  Starting application 
+13:02:37.065 INFO  Initializing web server module 
+13:02:49.567 INFO  Initializing database module 
+13:02:50.445 INFO  Connection was successfull 
+13:02:50.448 INFO  Database connection was successfull 
+13:02:50.450 INFO  Starting application 
+13:02:50.451 INFO  Initializing web server module 
+13:18:12.153 INFO  Initializing database module 
+13:18:12.949 INFO  Connection was successfull 
+13:18:12.950 INFO  Database connection was successfull 
+13:18:12.951 INFO  Starting application 
+13:18:12.952 INFO  Initializing web server module 
+13:18:44.974 INFO  Initializing database module 
+13:18:45.749 INFO  Connection was successfull 
+13:18:45.760 INFO  Database connection was successfull 
+13:18:45.763 INFO  Starting application 
+13:18:45.764 INFO  Initializing web server module 
+13:18:53.015 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+13:18:59.658 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+13:18:59.706 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+13:19:01.729 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+13:19:01.764 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+13:20:52.030 INFO  Initializing database module 
+13:20:53.117 INFO  Connection was successfull 
+13:20:53.121 INFO  Database connection was successfull 
+13:20:53.122 INFO  Starting application 
+13:20:53.124 INFO  Initializing web server module 
+13:20:56.011 INFO  Initializing database module 
+13:20:56.865 INFO  Connection was successfull 
+13:20:56.866 INFO  Database connection was successfull 
+13:20:56.867 INFO  Starting application 
+13:20:56.867 INFO  Initializing web server module 
+13:21:00.399 INFO  Initializing database module 
+13:21:01.787 INFO  Connection was successfull 
+13:21:01.788 INFO  Database connection was successfull 
+13:21:01.789 INFO  Starting application 
+13:21:01.790 INFO  Initializing web server module 
+13:21:05.054 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+13:21:05.104 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+13:23:35.867 INFO  Initializing database module 
+13:23:36.707 INFO  Connection was successfull 
+13:23:36.708 INFO  Database connection was successfull 
+13:23:36.713 INFO  Starting application 
+13:23:36.713 INFO  Initializing web server module 
+13:24:04.479 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+13:24:04.513 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+13:24:06.888 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+13:24:06.939 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+13:30:42.288 INFO  Initializing database module 
+13:30:43.134 INFO  Connection was successfull 
+13:30:43.138 INFO  Database connection was successfull 
+13:30:43.141 INFO  Starting application 
+13:30:43.143 INFO  Initializing web server module 
+13:31:09.289 INFO  Initializing database module 
+13:31:10.119 INFO  Connection was successfull 
+13:31:10.120 INFO  Database connection was successfull 
+13:31:10.121 INFO  Starting application 
+13:31:10.122 INFO  Initializing web server module 
+13:31:15.715 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+13:31:15.756 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+13:32:31.596 INFO  Initializing database module 
+13:32:32.535 INFO  Connection was successfull 
+13:32:32.537 INFO  Database connection was successfull 
+13:32:32.558 INFO  Starting application 
+13:32:32.560 INFO  Initializing web server module 
+13:32:36.112 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+13:32:36.156 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+13:58:00.524 INFO  Initializing database module 
+13:58:01.257 INFO  Connection was successfull 
+13:58:01.258 INFO  Database connection was successfull 
+13:58:01.260 INFO  Starting application 
+13:58:01.265 INFO  Initializing web server module 
+13:59:16.752 INFO  Initializing database module 
+13:59:17.665 INFO  Connection was successfull 
+13:59:17.668 INFO  Database connection was successfull 
+13:59:17.670 INFO  Starting application 
+13:59:17.671 INFO  Initializing web server module 
+13:59:32.209 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+13:59:49.094 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:01:22.804 INFO  Initializing database module 
+14:01:23.565 INFO  Connection was successfull 
+14:01:23.566 INFO  Database connection was successfull 
+14:01:23.575 INFO  Starting application 
+14:01:23.575 INFO  Initializing web server module 
+14:01:26.258 INFO  Initializing database module 
+14:01:26.923 INFO  Connection was successfull 
+14:01:26.923 INFO  Database connection was successfull 
+14:01:26.925 INFO  Starting application 
+14:01:26.925 INFO  Initializing web server module 
+14:01:58.242 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:03:45.980 INFO  Initializing database module 
+14:03:46.844 INFO  Connection was successfull 
+14:03:46.845 INFO  Database connection was successfull 
+14:03:46.846 INFO  Starting application 
+14:03:46.849 INFO  Initializing web server module 
+14:03:52.523 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:03:59.892 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:05:25.041 INFO  Initializing database module 
+14:05:25.848 INFO  Connection was successfull 
+14:05:25.849 INFO  Database connection was successfull 
+14:05:25.850 INFO  Starting application 
+14:05:25.850 INFO  Initializing web server module 
+14:05:29.434 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:05:41.404 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:06:03.365 INFO  Initializing database module 
+14:06:04.281 INFO  Connection was successfull 
+14:06:04.282 INFO  Database connection was successfull 
+14:06:04.283 INFO  Starting application 
+14:06:04.283 INFO  Initializing web server module 
+14:06:10.859 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:06:20.036 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:06:20.083 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:06:23.821 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:06:23.850 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:07:05.048 INFO  Initializing database module 
+14:07:05.979 INFO  Connection was successfull 
+14:07:05.980 INFO  Database connection was successfull 
+14:07:05.980 INFO  Starting application 
+14:07:05.981 INFO  Initializing web server module 
+14:07:11.093 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:07:18.794 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:11:44.085 INFO  Initializing database module 
+14:11:44.970 INFO  Connection was successfull 
+14:11:44.972 INFO  Database connection was successfull 
+14:11:44.973 INFO  Starting application 
+14:11:44.983 INFO  Initializing web server module 
+14:11:47.911 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:11:55.623 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:12:28.225 INFO  Initializing database module 
+14:12:29.006 INFO  Connection was successfull 
+14:12:29.007 INFO  Database connection was successfull 
+14:12:29.008 INFO  Starting application 
+14:12:29.009 INFO  Initializing web server module 
+14:12:32.284 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:12:39.196 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:12:39.239 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:12:42.193 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:12:42.234 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:13:23.389 INFO  Initializing database module 
+14:13:24.185 INFO  Connection was successfull 
+14:13:24.187 INFO  Database connection was successfull 
+14:13:24.188 INFO  Starting application 
+14:13:24.189 INFO  Initializing web server module 
+14:13:49.847 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:13:56.714 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:13:56.751 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:13:58.263 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:13:58.301 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:14:35.387 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+14:14:35.433 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+14:14:37.658 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+14:14:37.711 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+14:15:52.062 INFO  Initializing database module 
+14:15:52.921 INFO  Connection was successfull 
+14:15:52.923 INFO  Database connection was successfull 
+14:15:52.926 INFO  Starting application 
+14:15:52.927 INFO  Initializing web server module 
+14:15:56.878 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:16:01.926 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+14:16:01.974 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+14:16:03.710 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+14:16:03.753 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+14:17:54.504 INFO  Initializing database module 
+14:17:55.454 INFO  Connection was successfull 
+14:17:55.455 INFO  Database connection was successfull 
+14:17:55.456 INFO  Starting application 
+14:17:55.456 INFO  Initializing web server module 
+14:17:57.444 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:18:04.191 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:18:04.226 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:18:05.834 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:18:05.864 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51659","GAMEDAY_ID_TO":"51659"} 
+14:50:00.514 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:50:36.383 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51929","GAMEDAY_ID_TO":"51991"} 
+14:50:36.427 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51929","GAMEDAY_ID_TO":"51991"} 
+14:50:41.438 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51929","GAMEDAY_ID_TO":"51991"} 
+14:50:41.481 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51929","GAMEDAY_ID_TO":"51991"} 
+14:55:43.741 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+14:55:54.100 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51929","GAMEDAY_ID_TO":"51929"} 
+14:55:54.138 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51929","GAMEDAY_ID_TO":"51929"} 
+14:55:58.365 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51929","GAMEDAY_ID_TO":"51929"} 
+14:55:58.390 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51929","GAMEDAY_ID_TO":"51929"} 
+15:24:17.738 INFO  Initializing database module 
+15:24:18.764 INFO  Connection was successfull 
+15:24:18.765 INFO  Database connection was successfull 
+15:24:18.766 INFO  Starting application 
+15:24:18.767 INFO  Initializing web server module 
+15:24:28.134 INFO  Initializing database module 
+15:24:28.942 INFO  Connection was successfull 
+15:24:28.944 INFO  Database connection was successfull 
+15:24:28.945 INFO  Starting application 
+15:24:28.946 INFO  Initializing web server module 
+15:24:48.260 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:24:53.189 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+15:24:53.240 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+15:26:04.466 INFO  Initializing database module 
+15:26:05.208 INFO  Connection was successfull 
+15:26:05.210 INFO  Database connection was successfull 
+15:26:05.211 INFO  Starting application 
+15:26:05.212 INFO  Initializing web server module 
+15:26:09.301 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:26:13.758 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+15:26:13.804 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+15:27:09.639 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:27:14.958 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+15:27:15.005 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+15:27:23.665 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+15:32:30.917 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:32:43.710 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+15:33:06.525 INFO  Initializing database module 
+15:33:07.422 INFO  Connection was successfull 
+15:33:07.423 INFO  Database connection was successfull 
+15:33:07.424 INFO  Starting application 
+15:33:07.425 INFO  Initializing web server module 
+15:33:09.339 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:33:15.448 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+15:34:06.542 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:34:11.487 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"2"} 
+15:34:11.491 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"2"} 
+15:35:22.600 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:35:28.270 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:35:28.277 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:40:00.408 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:40:09.371 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"2"} 
+15:40:09.379 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"2"} 
+15:43:51.524 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:43:55.283 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:43:55.286 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:43:58.178 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:43:58.182 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:44:00.743 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:44:00.757 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:46:10.059 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:46:13.620 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:46:13.624 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:46:16.173 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:46:16.177 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:46:18.593 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:46:18.596 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:47:37.307 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:47:40.495 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:47:40.498 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:47:43.019 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:47:43.024 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:47:45.527 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:47:45.530 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:49:57.480 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:50:00.588 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:50:00.591 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:50:02.989 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:50:03.000 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:50:05.122 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:50:05.125 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:52:40.548 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:55:19.077 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:55:49.457 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:55:53.556 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:55:53.559 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:55:56.812 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:55:56.815 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+15:56:18.746 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:56:23.175 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+15:57:45.104 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:57:48.318 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:57:52.430 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+15:59:08.263 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+15:59:14.700 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:01:46.471 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:01:51.151 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:01:54.777 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:04:45.335 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:05:24.735 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:05:53.175 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:05:57.435 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:06:02.045 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:07:03.484 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:07:08.013 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:07:10.749 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:07:16.460 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:07:20.327 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:07:58.191 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:08:02.239 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:08:05.961 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:09:56.494 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:10:00.603 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:10:03.951 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:12:56.169 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:13:00.215 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:13:03.052 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:13:05.284 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:14:11.144 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:14:16.414 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:14:19.897 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:16:24.010 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:16:28.007 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:16:30.981 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:16:33.247 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:17:26.504 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:17:31.508 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:17:34.056 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:19:05.204 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:19:09.110 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:19:12.389 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:19:14.881 INFO  Consulta exitosa {"GAMEDAY_ID":1} 
+16:19:25.208 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:19:47.570 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:19:52.469 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+16:19:52.472 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"1","GAMEDAY_ID_TO":"1"} 
+16:36:40.997 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:37:01.356 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:37:07.265 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+16:37:07.322 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+16:38:16.425 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:38:23.936 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+16:38:23.976 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+16:41:45.908 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:42:00.258 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+16:42:05.896 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+16:42:05.963 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+

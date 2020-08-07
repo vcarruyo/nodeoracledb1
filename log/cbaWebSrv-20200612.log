@@ -1,0 +1,6 @@
+08:50:33.520 INFO  Initializing database module 
+08:50:34.263 INFO  Connection was successfull 
+08:50:34.264 INFO  Database connection was successfull 
+08:50:34.266 INFO  Starting application 
+08:50:34.266 INFO  Initializing web server module 
+08:50:50.466 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 

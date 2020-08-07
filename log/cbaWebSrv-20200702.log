@@ -1,0 +1,11 @@
+17:12:50.079 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+17:12:56.026 INFO  Consulta exitosa {"HU_USERNAME":"GESTO"} 
+17:13:01.770 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+17:13:03.854 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+17:13:11.017 INFO  Consulta exitosa {"EXT_GAMEDAY_ID_FROM":"1","EXT_GAMEDAY_ID_TO":"1"} 
+17:13:11.022 INFO  Consulta exitosa {"EXT_GAMEDAY_ID_FROM":"1","EXT_GAMEDAY_ID_TO":"1"} 
+17:13:35.382 INFO  Consulta exitosa {"EXT_GAMEDAY_ID_FROM":"43622","EXT_GAMEDAY_ID_TO":"43707"} 
+17:13:35.457 INFO  Consulta exitosa {"EXT_GAMEDAY_ID_FROM":"43622","EXT_GAMEDAY_ID_TO":"43707"} 
+17:13:57.454 INFO  Consulta exitosa {"EXT_GAMEDAY_ID":1} 
+17:14:05.569 INFO  Consulta exitosa {"EXT_GAMEDAY_ID":43564} 
+

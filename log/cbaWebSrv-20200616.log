@@ -1,0 +1,161 @@
+08:10:20.645 INFO  Initializing database module 
+08:10:22.481 INFO  Connection was successfull 
+08:10:22.482 INFO  Database connection was successfull 
+08:10:22.483 INFO  Starting application 
+08:10:22.484 INFO  Initializing web server module 
+08:10:57.520 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+09:53:50.955 INFO  Initializing database module 
+09:53:51.887 INFO  Connection was successfull 
+09:53:51.888 INFO  Database connection was successfull 
+09:53:51.888 INFO  Starting application 
+09:53:51.889 INFO  Initializing web server module 
+10:26:17.154 INFO  Received SIGINT 
+10:26:17.160 INFO  Shutting down 
+10:26:17.162 INFO  Closing web server module 
+10:26:17.170 INFO  Closing database module 
+10:28:27.719 INFO  Initializing database module 
+10:28:28.435 INFO  Connection was successfull 
+10:28:28.436 INFO  Database connection was successfull 
+10:28:28.437 INFO  Starting application 
+10:28:28.438 INFO  Initializing web server module 
+10:28:44.578 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+10:29:32.697 INFO  users route 
+10:29:57.178 INFO  users route 
+10:30:52.092 INFO  Initializing database module 
+10:30:52.864 INFO  Connection was successfull 
+10:30:52.866 INFO  Database connection was successfull 
+10:30:52.868 INFO  Starting application 
+10:30:52.869 INFO  Initializing web server module 
+10:31:03.760 INFO  users route 
+10:31:03.822 INFO  users route 
+10:31:03.828 INFO  users route 
+10:31:03.832 INFO  users route 
+10:31:03.836 INFO  users route 
+10:31:03.840 INFO  users route 
+10:31:03.844 INFO  users route 
+10:31:03.848 INFO  users route 
+10:31:03.852 INFO  users route 
+10:31:03.859 INFO  users route 
+10:31:04.010 INFO  users route 
+10:31:16.925 INFO  users route 
+10:31:16.930 INFO  users route 
+10:31:16.934 INFO  users route 
+10:31:16.938 INFO  users route 
+10:31:16.941 INFO  users route 
+10:31:16.944 INFO  users route 
+10:31:16.947 INFO  users route 
+10:31:16.952 INFO  users route 
+10:31:16.961 INFO  users route 
+10:31:16.966 INFO  users route 
+10:31:16.969 INFO  users route 
+10:32:37.338 INFO  users route 
+10:32:37.342 INFO  users route 
+10:32:37.346 INFO  users route 
+10:32:37.349 INFO  users route 
+10:32:37.352 INFO  users route 
+10:32:37.355 INFO  users route 
+10:32:37.358 INFO  users route 
+10:32:37.363 INFO  users route 
+10:32:37.368 INFO  users route 
+10:32:37.387 INFO  users route 
+10:32:37.391 INFO  users route 
+10:34:24.102 INFO  Initializing database module 
+10:34:24.881 INFO  Connection was successfull 
+10:34:24.882 INFO  Database connection was successfull 
+10:34:24.883 INFO  Starting application 
+10:34:24.884 INFO  Initializing web server module 
+10:34:37.743 INFO  users route 
+10:34:50.215 INFO  users route 
+10:35:02.484 INFO  users route 
+10:36:31.172 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+10:36:48.691 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+10:37:08.031 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+10:37:08.287 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+12:46:51.189 INFO  Received SIGINT 
+12:46:51.209 INFO  Shutting down 
+12:46:51.223 INFO  Closing web server module 
+12:46:51.245 INFO  Closing database module 
+18:08:46.247 INFO  Initializing database module 
+18:08:47.038 INFO  Connection was successfull 
+18:08:47.038 INFO  Database connection was successfull 
+18:08:47.040 INFO  Starting application 
+18:08:47.041 INFO  Initializing web server module 
+18:09:13.584 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:09:19.737 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:12:20.775 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:19:18.660 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:19:22.392 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:22:36.782 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:22:45.516 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+18:22:49.335 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+18:24:11.112 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:24:17.427 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+18:24:20.033 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+18:24:37.071 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+18:24:37.157 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+18:24:40.469 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+18:24:40.510 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+18:25:09.067 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+18:25:09.143 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+18:25:17.896 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:28:17.719 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:28:24.559 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+18:51:09.376 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:55:14.341 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:59:13.138 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+18:59:18.777 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+19:04:53.541 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+19:05:58.039 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+19:06:03.546 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+19:06:05.985 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+19:07:17.287 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+19:07:23.851 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+19:07:27.220 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+19:07:39.708 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+19:07:51.081 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+19:07:51.130 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+19:07:53.779 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+19:07:53.834 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+19:08:06.193 INFO  Consulta exitosa {} 
+19:08:06.207 INFO  Consulta exitosa {} 
+19:08:52.592 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+19:09:03.995 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+19:09:04.051 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+19:09:23.441 INFO  Consulta exitosa {} 
+19:09:23.445 INFO  Consulta exitosa {} 
+19:12:50.415 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+19:13:39.065 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+19:13:39.115 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+19:13:41.319 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+19:13:41.359 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+19:13:50.322 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+19:13:55.392 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+19:16:20.795 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+19:16:26.226 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+19:16:28.825 INFO  Consulta exitosa {"GAMEDAY_ID":51587} 
+19:16:47.080 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+19:16:47.129 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+19:16:49.078 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+19:16:49.118 INFO  Consulta exitosa {"GAMEDAY_ID_FROM":"51645","GAMEDAY_ID_TO":"51730"} 
+19:20:55.648 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
+19:24:53.886 INFO  Initializing database module 
+19:24:54.534 INFO  Connection was successfull 
+19:24:54.536 INFO  Database connection was successfull 
+19:24:54.537 INFO  Starting application 
+19:24:54.537 INFO  Initializing web server module 
+19:25:10.853 INFO  Initializing database module 
+19:25:11.605 INFO  Connection was successfull 
+19:25:11.606 INFO  Database connection was successfull 
+19:25:11.607 INFO  Starting application 
+19:25:11.608 INFO  Initializing web server module 
+19:25:43.067 INFO  Initializing database module 
+19:25:43.759 INFO  Connection was successfull 
+19:25:43.760 INFO  Database connection was successfull 
+19:25:43.761 INFO  Starting application 
+19:25:43.761 INFO  Initializing web server module 
+19:31:21.222 INFO  Initializing database module 
+19:31:21.981 INFO  Connection was successfull 
+19:31:21.981 INFO  Database connection was successfull 
+19:31:21.984 INFO  Starting application 
+19:31:21.985 INFO  Initializing web server module 
+19:33:03.087 INFO  Consulta exitosa {"HU_USERNAME":"GESTOR"} 
